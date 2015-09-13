@@ -21,3 +21,5 @@
      (set-face-background 'magit-diff-hunk-heading-highlight "gray92")
      (set-face-foreground 'magit-hash "firebrick")))
 ```
+
+¶Ç ¼öÁ¤.
