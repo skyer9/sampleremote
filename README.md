@@ -1,7 +1,8 @@
 # sampleremote
  OK!!
 
-중간도 수정
+중간도 수정, and
+Hello
 
 ```
 (eval-after-load 'magit
