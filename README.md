@@ -1,6 +1,8 @@
 # sampleremote
  OK!!
 
+중간도 수정
+
 ```
 (eval-after-load 'magit
   '(progn
